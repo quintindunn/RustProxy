@@ -1,4 +1,3 @@
-# hapis
+## Not my code
 
-
-A mostly functional-abandoned-midway-through proxy cheat for Rust. Has basic functionality and can be expanded. Sorry for some bad code habits in some places (austin :thinking:)
+This code is completely jacked from https://github.com/xetrics/hapis, simply uploaded it here to share with someone.
